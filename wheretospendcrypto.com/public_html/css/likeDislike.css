@@ -1,0 +1,20 @@
+
+
+#Likenumbers, #Dislikenumbers{
+	font-size: 2rem;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+#likebtn, #dislikebtn{
+	border:none; 
+	background-color: transparent; 
+	outline: none;
+
+
+}
+
+#likebtnDiv, #dislikebtnDiv{
+	text-align:center;
+}
