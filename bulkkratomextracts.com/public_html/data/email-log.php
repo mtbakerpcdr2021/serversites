@@ -2045,3 +2045,561 @@ Content-Type: text/html; charset=us-ascii
 
 ----------------------------------------------------------------
 
+
+
+----------------------------------------------------------------
+2021-12-09 18:46:52
+Email Sent: OK
+Date: Thu, 9 Dec 2021 18:46:52 +0000
+From: Legacy <dhason@verizon.net>
+Reply-To: Legacy <dhason@verizon.net>
+Message-ID: <5fc4c9fa0792742316332fe169f0a4c4@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5fc4c9fa0792742316332fe169f0a4c4"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_5fc4c9fa0792742316332fe169f0a4c4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  Legacy 
+ Company Name  Islands 
+ Address Line1  61442 Schiller Fall 
+ City  Gloverborough 
+ State / Province / Region  Colorado 
+ Postal / Zip Code  Account 
+ Country  United States 
+ Email  dhason@verizon.net 
+
+
+--b1_5fc4c9fa0792742316332fe169f0a4c4
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Legacy&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Islands&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>61442 Schiller Fall&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Gloverborough&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Colorado&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Account&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>dhason@verizon.net&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_5fc4c9fa0792742316332fe169f0a4c4--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2021-12-10 20:01:41
+Email Sent: OK
+Date: Fri, 10 Dec 2021 20:01:41 +0000
+From: Antonio Suarez <healingshards@protonmail.com>
+Reply-To: Antonio Suarez <healingshards@protonmail.com>
+Message-ID: <3b8ab6dce7ade93caede4cf7327c84fb@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3b8ab6dce7ade93caede4cf7327c84fb"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_3b8ab6dce7ade93caede4cf7327c84fb
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  Antonio Suarez 
+ Company Name  Healing Shards 
+ Address Line1  1345 NW 98TH CT, UNIT 2 - FBS10343 
+ City  Doral 
+ State / Province / Region  Florida 
+ Postal / Zip Code  33172 
+ Country  United States 
+ Email  healingshards@protonmail.com 
+
+
+--b1_3b8ab6dce7ade93caede4cf7327c84fb
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Antonio Suarez&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Healing Shards&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>1345 NW 98TH CT, UNIT 2 - FBS10343&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Doral&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Florida&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>33172&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>healingshards@protonmail.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_3b8ab6dce7ade93caede4cf7327c84fb--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2022-01-01 16:35:06
+Email Sent: OK
+Date: Sat, 1 Jan 2022 16:35:06 +0000
+From: schemas <julieanne71@yahoo.com>
+Reply-To: schemas <julieanne71@yahoo.com>
+Message-ID: <e6e25c29f52e9b193cf10ff1f6aec20b@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_e6e25c29f52e9b193cf10ff1f6aec20b"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_e6e25c29f52e9b193cf10ff1f6aec20b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  schemas 
+ Company Name  Pizza 
+ Address Line1  546 Favian Harbor 
+ City  South Chadrickstad 
+ State / Province / Region  Massachusetts 
+ Postal / Zip Code  Global 
+ Country  United States 
+ Email  julieanne71@yahoo.com 
+
+
+--b1_e6e25c29f52e9b193cf10ff1f6aec20b
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>schemas&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Pizza&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>546 Favian Harbor&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>South Chadrickstad&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Massachusetts&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Global&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>julieanne71@yahoo.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_e6e25c29f52e9b193cf10ff1f6aec20b--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2022-01-11 01:41:46
+Email Sent: OK
+Date: Tue, 11 Jan 2022 01:41:46 +0000
+From: International <clf10538@yahoo.com>
+Reply-To: International <clf10538@yahoo.com>
+Message-ID: <044606ac3efa705b27e00ccda1b78a29@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_044606ac3efa705b27e00ccda1b78a29"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_044606ac3efa705b27e00ccda1b78a29
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  International 
+ Company Name  calculate 
+ Address Line1  34705 Grimes Prairie 
+ City  Avondale 
+ State / Province / Region  Delaware 
+ Postal / Zip Code  Intranet 
+ Country  United States 
+ Email  clf10538@yahoo.com 
+
+
+--b1_044606ac3efa705b27e00ccda1b78a29
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>International&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>calculate&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>34705 Grimes Prairie&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Avondale&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Delaware&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Intranet&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>clf10538@yahoo.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_044606ac3efa705b27e00ccda1b78a29--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2022-01-15 13:37:13
+Email Sent: OK
+Date: Sat, 15 Jan 2022 13:37:13 +0000
+From: John Consiglio <jc_gowireless@live.com>
+Reply-To: John Consiglio <jc_gowireless@live.com>
+Message-ID: <485bc6e8bbc4886620e5b287e123100c@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_485bc6e8bbc4886620e5b287e123100c"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_485bc6e8bbc4886620e5b287e123100c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  John Consiglio 
+ Company Name  Usa vape 
+ Address Line1  3932 hypoluxo rd 
+ City  Boynton beach 
+ State / Province / Region  Florida 
+ Postal / Zip Code  33436 
+ Country  Usa 
+ Email  jc_gowireless@live.com 
+
+
+--b1_485bc6e8bbc4886620e5b287e123100c
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>John Consiglio&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Usa vape&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>3932 hypoluxo rd&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Boynton beach&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Florida&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>33436&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Usa&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>jc_gowireless@live.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_485bc6e8bbc4886620e5b287e123100c--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2022-01-29 11:23:51
+Email Sent: OK
+Date: Sat, 29 Jan 2022 11:23:51 +0000
+From: New Mexico <albertisin@gmail.com>
+Reply-To: New Mexico <albertisin@gmail.com>
+Message-ID: <7c00e90740b92c8c2ca8db83dd2144f4@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_7c00e90740b92c8c2ca8db83dd2144f4"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_7c00e90740b92c8c2ca8db83dd2144f4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  New Mexico 
+ Company Name  Licensed 
+ Address Line1  360 Price Valleys 
+ City  Hillsbury 
+ State / Province / Region  Oregon 
+ Postal / Zip Code  Gourde US Dollar 
+ Country  United States 
+ Email  albertisin@gmail.com 
+
+
+--b1_7c00e90740b92c8c2ca8db83dd2144f4
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>New Mexico&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Licensed&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>360 Price Valleys&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Hillsbury&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Oregon&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Gourde US Dollar&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>albertisin@gmail.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_7c00e90740b92c8c2ca8db83dd2144f4--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2022-01-29 12:49:56
+Email Sent: OK
+Date: Sat, 29 Jan 2022 12:49:56 +0000
+From: Fantastic <jessicab.04@hotmail.com>
+Reply-To: Fantastic <jessicab.04@hotmail.com>
+Message-ID: <975070754d8d8a09fa7c5fddb9b3d90f@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_975070754d8d8a09fa7c5fddb9b3d90f"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_975070754d8d8a09fa7c5fddb9b3d90f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  Fantastic 
+ Company Name  Functionality 
+ Address Line1  2277 Stoltenberg Hollow 
+ City  Des Moines 
+ State / Province / Region  Oregon 
+ Postal / Zip Code  user 
+ Country  United States 
+ Email  jessicab.04@hotmail.com 
+
+
+--b1_975070754d8d8a09fa7c5fddb9b3d90f
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Fantastic&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Functionality&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>2277 Stoltenberg Hollow&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Des Moines&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Oregon&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>user&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>jessicab.04@hotmail.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_975070754d8d8a09fa7c5fddb9b3d90f--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2022-02-04 04:58:03
+Email Sent: OK
+Date: Fri, 4 Feb 2022 04:58:03 +0000
+From: Cambridgeshire <whitney651@aol.com>
+Reply-To: Cambridgeshire <whitney651@aol.com>
+Message-ID: <5f1648507edc9142207c71efa7f07042@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5f1648507edc9142207c71efa7f07042"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_5f1648507edc9142207c71efa7f07042
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  Cambridgeshire 
+ Company Name  needs-based 
+ Address Line1  0220 Mitchell Crossing 
+ City  South Joyce 
+ State / Province / Region  Rhode Island 
+ Postal / Zip Code  Expressway 
+ Country  United States 
+ Email  whitney651@aol.com 
+
+
+--b1_5f1648507edc9142207c71efa7f07042
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Cambridgeshire&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>needs-based&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>0220 Mitchell Crossing&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>South Joyce&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Rhode Island&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Expressway&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>whitney651@aol.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_5f1648507edc9142207c71efa7f07042--
+
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+2022-02-07 18:36:36
+Email Sent: OK
+Date: Mon, 7 Feb 2022 18:36:36 +0000
+From: online <thecodyset@gmail.com>
+Reply-To: online <thecodyset@gmail.com>
+Message-ID: <f1eb8b50c3de9be624a9eb2879f3e554@bulkkratomextracts.com>
+X-Mailer: PHPMailer 5.2.21 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_f1eb8b50c3de9be624a9eb2879f3e554"
+Content-Transfer-Encoding: 8bit
+To: admin@goldstarbotanicals.com
+Subject: Bulk Kratom Form
+
+This is a multi-part message in MIME format.
+
+--b1_f1eb8b50c3de9be624a9eb2879f3e554
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Your Name  online 
+ Company Name  Beauty 
+ Address Line1  4922 Kelsie Spurs 
+ City  North Janeland 
+ State / Province / Region  Vermont 
+ Postal / Zip Code  navigate 
+ Country  United States 
+ Email  thecodyset@gmail.com 
+
+
+--b1_f1eb8b50c3de9be624a9eb2879f3e554
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#cccccc" style="border:1px solid #cccccc;"><tbody><tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Your Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>online&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Company Name&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Beauty&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Address Line1&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>4922 Kelsie Spurs&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>City&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>North Janeland&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>State / Province / Region&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>Vermont&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Postal / Zip Code&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>navigate&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Country&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>United States&nbsp;</td></tr>
+<tr> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;font-weight:bold;width:25%;'>Email&nbsp;</td> <td valign=top style='font-family:Verdana, Arial, Helvetica, sans-serif; font-size : 13px; color:#474747;padding:6px;border:1px solid #cccccc;;'>thecodyset@gmail.com&nbsp;</td></tr></table></body>
+</html>
+
+
+
+--b1_f1eb8b50c3de9be624a9eb2879f3e554--
+
+----------------------------------------------------------------
+
