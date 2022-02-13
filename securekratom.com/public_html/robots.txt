@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://securekratom.com/sitemap.xml

@@ -1,7 +1,0 @@
-
-
-4)As we've added more products to the web store it's starting to look bad. Can we get it so the main view on the web store is organized visually by category. In other words make it look like the product choices as they are now but have the first set that shows be the categories. Here is an example of what im talking about 
-https://ezkratom.com/wholesale-kratom-products/
-
-
-
