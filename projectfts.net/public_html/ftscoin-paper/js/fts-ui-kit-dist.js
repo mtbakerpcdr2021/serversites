@@ -1,1 +1,0 @@
-$(function(){$(".material-form .form-group").each(function(){var a=$(this),r=$("<span>").addClass("form-highlight"),o=$("<span>").addClass("form-bar");$(".form-control",a).after(r).after(o)})});
