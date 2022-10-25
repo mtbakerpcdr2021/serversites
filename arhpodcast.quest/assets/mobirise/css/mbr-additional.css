@@ -1169,6 +1169,12 @@ a {
 .cid-s1YLYYtmhw .mbr-section-btn {
   color: #999999;
 }
+#custom-html-2 .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
 .cid-s1YM3FtOOn {
   padding-top: 30px;
   padding-bottom: 105px;
