@@ -1,0 +1,114 @@
+{
+  "settings": {
+    "name": "cringedegen",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "marketm4",
+      "title": "MarketM4",
+      "styling": {
+        "primaryColor": "#2f1893",
+        "secondaryColor": "#7fa8d7",
+        "successColor": "#2ECC71",
+        "infoColor": "#482be7",
+        "warningColor": "#919dab",
+        "dangerColor": "#e93a7d",
+        "mainFont": "DM Sans",
+        "display1Font": "DM Sans",
+        "display1Size": 4.5,
+        "display2Font": "DM Sans",
+        "display2Size": 3.625,
+        "display5Font": "DM Sans",
+        "display5Size": 2.625,
+        "display7Font": "DM Sans",
+        "display7Size": 1.375,
+        "display4Font": "DM Sans",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.4",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 1,
+    "versionPublish": "4.12.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "50px"
+            },
+            ".mbr-section-btn": {
+              ".btn": {
+                "font-weight": "700",
+                "height": "60px"
+              }
+            },
+            ".block__image": {
+              "margin": "70px 0 40px",
+              "@media (max-width: 991px)": {
+                "margin": "70px 0 20px"
+              },
+              "img": {
+                "width": "100%",
+                "object-fit": "cover",
+                "border-radius": "10px"
+              }
+            },
+            ".bottom__block": {
+              "margin-top": "30px",
+              "padding": "10px 15px",
+              "@media (min-width: 992px)": {
+                "border-left": "2px solid lighten(@borderColor, 30%)"
+              }
+            },
+            ".bottom__block:first-child": {
+              "border-left": "none"
+            },
+            ".bottom__text": {
+              "color": "#919dab",
+              "font-weight": "500",
+              "margin-bottom": "0",
+              "@media (min-width: 768px)": {
+                "margin": "0 25px"
+              }
+            },
+            ".bottom__block:nth-child(4)": {
+              "border-left": "none"
+            }
+          },
+          "_name": "header5",
+          "_customHTML": "<section class=\"header5 marketm4_header5\" group=\"Headers\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n\t\t<input type=\"range\" title=\"Count Items\" name=\"bottomCardCount\" min=\"0\" max=\"6\" value=\"3\">\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n\t\t<input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n\t\t<input type=\"checkbox\" title=\"Card Title\" name=\"showCardTitle\" condition=\"bottomCardCount > 0\">\n\t\t<input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#919dab\" condition=\"bottomCardCount > 0\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"../_images/bg1.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#0d0f1c\" condition=\"overlay && bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<div class=\"col-lg-8 text-center\">\n\t\t\t\t<h1 class=\"mbr-section-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .mbr-section-btn\">It's Easy and Simple</h1>\n\t\t\t\t<div class=\"mbr-section-btn\" mbr-buttons mbr-theme-style=\"display-7\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-lg btn-info\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Get Start</a></div>\n\t\t\t</div>\n\t\t\t<div class=\"col-lg-10 block__image\">\n\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/mbr-1840x1227.jpg\" alt=\"Mobirise\" title>\n\t\t\t</div>\n\n\n\t\t\t<div class=\"row justify-content-center\" mbr-list mbr-list-grow=\"bottomCardCount\" mbr-if=\"bottomCardCount > 0\">\n\t\t\t\t<div class=\"col-lg-4 flex-column bottom__block text-center\">\n\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showCardTitle\">Drag and Drop Generator</p>\n\t\t\t\t\t<p class=\"bottom__text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".bottom__text\" mbr-text>HI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"col-lg-4 flex-column bottom__block text-center\">\n\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showCardTitle\">Drag and Drop Generator</p>\n\t\t\t\t\t<p class=\"bottom__text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".bottom__text\" mbr-text>Still<br>in&nbsp;<br>The&nbsp;<br>oven</p>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"col-lg-4 flex-column bottom__block text-center\">\n\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showCardTitle\">Drag and Drop Generator</p>\n\t\t\t\t\t<p class=\"bottom__text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".bottom__text\" mbr-text>See<br>you&nbsp;<br>soon</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n</section>",
+          "_cid": "tE3qV1dDNG",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header5-0"
+        }
+      ]
+    }
+  }
+}
