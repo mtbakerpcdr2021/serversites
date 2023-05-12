@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/podcast-logo-128x159-1.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  
+  <title>Countdown</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+
+</head>
+<body>
+  <section class="menu cid-s1YLZwONfz" once="menu" id="menu1-3">
+    
+    <nav class="navbar navbar-dropdown navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="page1.html">The ARH Podcast</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html">Home</a>
+                    </li></ul>
+                
+                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary-outline display-4" href="page1.html"><span class="mobi-mbri mobi-mbri-rocket mbr-iconfont mbr-iconfont-btn"></span>Count Down<br>To Showtime<br></a></div>
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section class="footer1 solutionm4_footer1 cid-tkQwBp50is" once="footers" id="footer1-4">
+    
+    
+    <div class="container">
+        <div class="row mbr-white justify-content-center">
+            <div class="col-12 col-lg-6 col-md-6">
+                <p class="mbr-text1 align-left mbr-fonts-style align-left display-7">Go be a good person you silly son of a bitch.</p>
+            </div>
+            <div class="col-12 col-lg-6 col-md-6">
+                <p class="mbr-text2 align-right mbr-fonts-style align-left display-7">© 2022 Webb Diverse Management&nbsp;</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div id="custom-html-5">
+  <h2 align="center" style="color:purple"> Countdown To The Show </h2>
+<img src="https://gifcdn.com/d1m74p3ab9h6grjee1j.gif" alt="countdown" class="center"></div>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+
+</body>
+</html>
